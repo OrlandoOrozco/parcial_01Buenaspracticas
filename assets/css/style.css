@@ -1,0 +1,43 @@
+ul {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style-type: none;
+    background-color: #595353;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    color: white;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #e5ff00;
+  }
+  
+  .activo {
+    background-color: #849200;
+  }
+  
+  .derecha {
+    float: right;
+  }
+  
+  .miJumbo {
+    margin-top: 1rem;
+    padding: 32px 16px;
+    background-color: #ffffff49;
+    border-radius: 0.5rem;
+    text-align: center;
+    color: rgb(0, 0, 0);
+  }
+
+  .fondo {
+    background-color: rgb(255, 231, 15);
+  }
